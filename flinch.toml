@@ -1,0 +1,13 @@
+[login]
+username = "root"
+password = "flinch"
+
+[dir]
+data = "/Users/julfikar/Documents/qaswa-temp.nosync/mem-data"
+log = "/Users/julfikar/Documents/qaswa-temp.nosync/mem-log"
+mem_watch = "/Users/julfikar/Documents/qaswa-temp.nosync/mem-etc"
+
+[enable]
+log = true
+mem_watch = true
+
