@@ -1,2 +1,4 @@
-# qaswa.rs
-Open source alternative to firebase real time database
+# axum-postgres-boilerplate
+- Flinch
+- Postgres
+- Axum
